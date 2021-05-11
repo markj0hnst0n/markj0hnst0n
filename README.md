@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my own developer website
+- 🔭 I’m currently working on Shopify partnership
 - 🌱 I’m currently learning Liquid
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with expanding my knowledge base
