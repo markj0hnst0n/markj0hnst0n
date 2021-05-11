@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm MArk</h1>
+<h1 align="center">Hi 👋, I'm Mark Johnston</h1>
 <h3 align="center">I go by many names: Lifelong Learner | Full Stack Developer | Dad</h3>
 
 - 🔭 I’m currently working on Shopify Partnership Fundamentals
