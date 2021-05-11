@@ -1,21 +1,5 @@
 ### Hi there 👋
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-4435
-Fork on GitHub
-827
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm MArk</h1>
 <h3 align="center">I go by many names: Lifelong Learner | Full Stack Developer | Dad</h3>
 
