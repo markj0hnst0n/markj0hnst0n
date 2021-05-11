@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Johnston</h1>
-<h3 align="center">Lifelong Learner | Full Stack Developer | Dad</h3>
+<h3 align="center">Lifelong Learner | Full Stack Developer | Dad | Runner | DJ</h3>
 
 - 🔭 I’m currently working on Shopify Partnership Fundamentals
 - 🌱 I’m currently learning Liquid
