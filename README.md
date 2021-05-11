@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mark Johnston</h1>
 <h3 align="center">Lifelong Learner | Full Stack Developer | Dad</h3>
 
