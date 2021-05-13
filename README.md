@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark Johnston</h1>
 <h3 align="center">Learner  |  Full Stack Developer  |  Dad |  Runner  |  DJ</h3>
 
-- 🔭 I’m currently working on My portfolio website
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on my portfolio website
+- 🌱 I’m currently learning Django Rest Framework
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with expanding my knowledge base
 - 💬 Ask me about anything!
