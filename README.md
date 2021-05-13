@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning Django Rest Framework
-- 👯 I’m looking to collaborate on Open Source Projects
+- 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with expanding my knowledge base
 - 💬 Ask me about anything!
 - 📫 How to reach me: 77markjohnston77@gmail.com
