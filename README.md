@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mark Johnston</h1>
+<h1 align="center">Hi :vulcan_salute:, I'm Mark Johnston</h1>
 <h3 align="center">Learner  |  Full Stack Developer  |  Dad |  Runner  |  DJ</h3>
 
 - 🔭 I’m currently working on my portfolio website
