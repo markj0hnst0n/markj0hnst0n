@@ -37,7 +37,7 @@
 
 <div align="center">
 <h3>Tools:</h3>
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-  original-wordmark.svg" alt="aws" width="40" height="40"/>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://marvel-b1-cdn.bc0a.com/f00000000243109/1x5o5mujiug388ttap1p8s17-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/AWS-logo-2-400x300.jpg" alt="aws logo" width="40" height="40"/>
 </a>
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </a>
