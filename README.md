@@ -19,7 +19,7 @@
 </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" width="40" height="40" alt="ruby logo">
 </a>
-<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" width="40" height="40" alt="C sharp logo">
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">"<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#/media/File:C_Sharp_wordmark.svg" width="40" height="40" alt="C sharp logo">
 </a>
 </div>
 
@@ -33,7 +33,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
 <a href="https://rubyonrails.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" width="40" height="40"alt="ruby-on-rails logo">
 </a>
-<a href="https://en.wikipedia.org/wiki/.NET_Framework" target="_blank"> <img src="https://usercontent.one/wp/www.jennerstrand.se/wp-content/uploads/2020/04/dotnet.png" alt="dotnet" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/.NET_Framework" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" alt="dotnet" width="40" height="40"/></a>
 </a>
 </div>
  
