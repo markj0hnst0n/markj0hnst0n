@@ -33,6 +33,8 @@
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
 <a href="https://rubyonrails.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" width="40" height="40"alt="ruby-on-rails logo">
 </a>
+<a href="https://en.wikipedia.org/wiki/.NET_Framework" target="_blank"> <img src="https://usercontent.one/wp/www.jennerstrand.se/wp-content/uploads/2020/04/dotnet.png" alt="dotnet" width="40" height="40"/></a>
+</a>
 </div>
  
 
