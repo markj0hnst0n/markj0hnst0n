@@ -1,13 +1,12 @@
 <h1 align="center">Hi :vulcan_salute:, I'm Mark Johnston</h1>
 <h3 align="center">Learner  |  Full Stack Developer  |  Dad |  Runner  |  DJ</h3>
 
-- 🔭 I’m currently working on my second Ruby on Rails Project
-- 🌱 I’m currently learning Ruby
+- 🔭 I’m currently working on my first .NET application
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with expanding my knowledge base
 - 💬 Ask me about anything!
 - 📫 How to reach me: 77markjohnston77@gmail.com
-- 😄 Pronouns: He/Him
 
 <div align="center">
 <h3>Languages:</h3>
