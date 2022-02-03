@@ -1,8 +1,8 @@
 <h1 align="center">Hi :vulcan_salute:, I'm Mark Johnston</h1>
 <h3 align="center">Learner  |  Full Stack Developer  |  Dad |  Runner  |  DJ</h3>
 
-- 🔭 I’m currently working on my first Rest API
-- 🌱 I’m currently learning .Net Core
+- 🔭 I’m currently working on Enterprise Architecture Projects for the Department of Finance
+- 🌱 I’m currently learning more about .Net Core every day
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with expanding my knowledge base
 - 💬 Ask me about anything!
