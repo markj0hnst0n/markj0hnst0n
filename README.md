@@ -1,5 +1,5 @@
 <h1 align="center">Hi :vulcan_salute:, I'm Mark Johnston</h1>
-<h3 align="center">Learner  |  Full Stack Developer  |  Dad |  Runner  |  DJ</h3>
+<h3 align="center">Lifetime Learner  |  Full Stack Developer  |  Dad |  Runner  |  DJ</h3>
 
 - 🔭 I’m currently working on Enterprise Architecture Projects for the Department of Finance
 - 🌱 I’m currently working on AWS certifications and taking a leading role in the migration of cloud providers for my department
