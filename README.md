@@ -2,9 +2,7 @@
 <h3 align="center">Learner  |  Full Stack Developer  |  Dad |  Runner  |  DJ</h3>
 
 - 🔭 I’m currently working on Enterprise Architecture Projects for the Department of Finance
-- 🌱 I’m currently learning more about .Net Core every day
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with expanding my knowledge base
+- 🌱 I’m currently working on AWS certifications and taking a leading role in the migration of cloud providers for my department
 - 💬 Ask me about anything!
 - 📫 How to reach me: 77markjohnston77@gmail.com
 
