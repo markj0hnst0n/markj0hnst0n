@@ -2,7 +2,6 @@
 <h3 align="center">Developer  |  Dad |  Runner  |  DJ</h3>
 
 - 🔭 I’m currently working on in Django for The Department of Business and Trade
-- 💬 Ask me about anything!
 - 📫 How to reach me: 77markjohnston77@gmail.com
 
 <div align="center">
