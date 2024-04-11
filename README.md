@@ -1,5 +1,5 @@
 <h1 align="center">Hi :vulcan_salute:, I'm Mark Johnston</h1>
-<h3 align="center">Lifetime Learner  |  Full Stack Developer  |  Dad |  Runner  |  DJ</h3>
+<h3 align="center">Developer  |  Dad |  Runner  |  DJ</h3>
 
 - 🔭 I’m currently working on in Django for The Department of Business and Trade
 - 💬 Ask me about anything!
